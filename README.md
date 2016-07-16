@@ -1,2 +1,2 @@
 # piou
-Projet de jeu petit de plates-formes
+Projet de petit jeu de plates-formes.
